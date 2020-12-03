@@ -71,4 +71,4 @@ async def egval(ctx, message):
     M = M.eigenvals()
     await ctx.send("The eigenvalues (in the order [ eigenvalue : algebraic multiplicity ]) are: ```py\n {}```".format(np.array(M)))
 
-client.run("NzcwNzA3NjE2NDgxNTQyMTc0.X5hfZg.lxwp0kY3XwmGBy3lTHtrmuu2Cwc")
+client.run("TOKEN REDACTED")
